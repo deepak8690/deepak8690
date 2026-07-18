@@ -1,5 +1,5 @@
 # Hi 👋, I'm DEEPAK YADAV
-### GenAI Specialist & Developer
+### AI Engineer (GenAI Specialist & Developer)
 
 A developer focusing on Large Language Model (LLM) workflows, advanced prompt engineering, and intelligent application orchestration using LangChain and Groq.
 
